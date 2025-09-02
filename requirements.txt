@@ -1,0 +1,12 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn
+yfinance
+# Deep Learning
+tensorflow
+# Web app (optional)
+streamlit
+tensorflow==2.15.0
+keras==2.15.0
